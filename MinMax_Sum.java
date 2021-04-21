@@ -2,7 +2,7 @@ import java.util.*;
 
 class MinMax_sum{
  // Complete the miniMaxSum function below.
- static void miniMaxSum(int[] arr) {
+static void miniMaxSum(int[] arr) {
         
     Arrays.sort(arr);
     long sum = 0;
